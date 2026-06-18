@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Microsoft.AspNetCore.Identity.IdentityUser>
+
+<h2>All Users</h2>
+
+<table class="table">
+    <tr>
+        <th>Email</th>
+        <th>Assign Role</th>
+    </tr>
+@foreach (var user in Model)
+{
+    <tr>
+        <td>@user.Email</td>
+        <td>
+            <input type="text" placeholder="Role" id="role_@user.Id" />
+            <button onclick="assignRole('@user.Id')">Assign</button>
+        </td>
+    </tr>
+}
+</table>
+
+<script>
+async function assignRole(userId) {
+    const roleInput = document.getElementById('role_' + userId);
+    const role = roleInput.value;
+    if (!role) { alert('Enter a role'); return; }
+
+    const response = await fetch('/Admin/AssignRole', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ userId, role })
+    });
+    const result = await response.json();
+    alert(result.message);
+}
+</script>

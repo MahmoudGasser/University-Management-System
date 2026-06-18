@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="list-group mt-3">
+    <a class="list-group-item list-group-item-action" asp-controller="Admin" asp-action="CreateAccount">Create New User</a>
+    <a class="list-group-item list-group-item-action" asp-controller="Admin" asp-action="Users">Manage Users</a>
+</div>

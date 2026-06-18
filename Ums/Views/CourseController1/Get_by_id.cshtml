@@ -1,0 +1,22 @@
+﻿@model CourseViewModel;
+
+@if (Model != null)
+{
+	<span class="bold_span">course title:</span> <span>@Model.CourseTitle </span>
+	<br>
+	<span class="bold_span">Course Instructor:</span> <span>@Model.CourseInstructor </span>
+	<br>
+	<span class="bold_span">Credit Hours:</span> <span>@Model.CreditHours </span>
+	<br>
+	<span class="bold_span">Course Department:</span> <span>@Model.CourseDepartment </span>
+
+}
+else
+{
+	<h2>Not Found...</h2>
+}
+<style>
+	.bold_span {
+		font-weight: bold;
+	}
+</style>

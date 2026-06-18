@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Create New User";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="CreateAccount" method="post">
+    <div class="mb-3">
+        <label for="username" class="form-label">Username / Email</label>
+        <input type="text" name="username" id="username" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label for="password" class="form-label">Password</label>
+        <input type="password" name="password" id="password" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label for="role" class="form-label">Role</label>
+        <select name="role" id="role" class="form-select" required>
+            @foreach (var r in ViewBag.Roles as string[])
+            {
+                <option value="@r">@r</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create User</button>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="text-danger mt-2">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}

@@ -1,0 +1,32 @@
+﻿@model List<(Microsoft.AspNetCore.Identity.IdentityUser User, IList<string> Roles)>
+
+@{
+    ViewData["Title"] = "Manage Users";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Username / Email</th>
+            <th>Roles</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ur in Model)
+        {
+            <tr>
+                <td>@ur.User.UserName</td>
+                <td>@string.Join(", ", ur.Roles)</td>
+                <td>
+                    <form asp-action="DeleteUser" method="post" style="display:inline">
+                        <input type="hidden" name="userId" value="@ur.User.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure?')">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

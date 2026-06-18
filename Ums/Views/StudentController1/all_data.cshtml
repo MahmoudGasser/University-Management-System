@@ -1,0 +1,56 @@
+﻿@{
+    var students = ViewBag.Students;
+}
+
+<h2>Students Data</h2>
+
+@if (students != null && students.Count > 0)
+{
+    foreach (var student in students)
+    {
+        <h3>@student.StudentName</h3>
+        <p><strong>Address:</strong> @student.Address</p>
+
+        <h4>Enrolled Courses</h4>
+        <table border="1" cellpadding="5" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Course Name</th>
+                    <th>Department</th>
+                    <th>Credit Hours</th>
+                    <th>Grade</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (student.Enrollments != null)
+                {
+                    foreach (var e in student.Enrollments)
+                    {
+                        <tr>
+                            <td>@e.CourseName</td>
+                            <td>@e.DepartmentName</td>
+                            <td>@e.CreditHours</td>
+                            @if (@e.Grade == null)
+                            {
+                                <td>In Progress</td>
+                            }
+                            else
+                            {
+                               <td>@e.Grade</td>
+                            }
+                           
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr><td colspan="4">No enrollments</td></tr>
+                }
+            </tbody>
+        </table>
+    }
+}
+else
+{
+    <p>No students found.</p>
+}

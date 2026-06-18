@@ -1,0 +1,29 @@
+﻿@model Ums.Models.Student
+
+<h2>Student Dashboard</h2>
+
+<p><strong>Name:</strong> @Model.FullName</p>
+<p><strong>Address:</strong> @Model.Address</p>
+
+<h3>Enrolled Courses</h3>
+@if (Model.Enrollments != null && Model.Enrollments.Any())
+{
+    <ul>
+    @{
+        int counter = 1;
+        foreach (var enroll in Model.Enrollments)
+        {
+            <li>@counter - @enroll.Course.name (Credits: @enroll.Course.CreditHours) - Grade: @(string.IsNullOrEmpty(enroll.Grade) ? "In Progress" : enroll.Grade)</li>;
+            counter++;
+        }
+    }
+    </ul>
+}
+else
+{
+    <p>No enrolled courses.</p>
+}
+
+<form asp-action="Logout" method="post">
+    <button type="submit">Logout</button>
+</form>

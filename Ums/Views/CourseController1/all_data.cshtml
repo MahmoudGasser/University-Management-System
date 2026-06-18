@@ -1,0 +1,25 @@
+﻿@model List<CourseViewModel>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Course Id</th>
+            <th>Title</th>
+            <th>Credit Hours</th>
+            <th>Instructor</th>
+            <th>Department</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CourseId</td>
+                <td>@item.CourseTitle</td>
+                <td>@item.CreditHours</td>
+                <td>@item.CourseInstructor</td>
+                <td>@item.CourseDepartment</td>
+            </tr>
+        }
+    </tbody>
+</table>

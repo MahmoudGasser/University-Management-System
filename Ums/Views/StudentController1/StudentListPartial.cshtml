@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Ums.Models.Student>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Full Name</th>
+            <th>Address</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var student in Model)
+    {
+        <tr>
+            <td>@student.FullName</td>
+            <td>@student.Address</td>
+        </tr>
+    }
+    </tbody>
+</table>

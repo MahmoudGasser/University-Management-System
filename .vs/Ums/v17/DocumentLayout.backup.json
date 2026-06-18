@@ -1,0 +1,1303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\coursecontroller1\\courselistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\coursecontroller1\\courselistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\coursecontroller1\\done_create_dep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\coursecontroller1\\done_create_dep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\studentcontroller1\\showcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\studentcontroller1\\showcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\validations\\mintwocharsname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\validations\\mintwocharsname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\repositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\repositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\models\\instructorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\models\\instructorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\models\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\models\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\models\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\models\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\models\\assignrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\models\\assignrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\migrations\\umscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\migrations\\umscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\data\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\data\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\controllers\\studentsrepositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\controllers\\studentsrepositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\controllers\\studentcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\controllers\\studentcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\controllers\\instructorcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\controllers\\instructorcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\controllers\\departmentrepositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\controllers\\departmentrepositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\controllers\\courserepositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\controllers\\courserepositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\controllers\\coursecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\controllers\\coursecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\controllers\\accountcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\controllers\\accountcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\filters\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\filters\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\studentcontroller1\\studentlistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\studentcontroller1\\studentlistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\studentcontroller1\\edit_done_view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\studentcontroller1\\edit_done_view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\coursecontroller1\\all_data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\coursecontroller1\\all_data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\instructorcontroller1\\instructorlistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\instructorcontroller1\\instructorlistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\instructorcontroller1\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\instructorcontroller1\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\student\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\student\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\account\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\account\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\admin\\createaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\admin\\createaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\studentcontroller1\\get_by_id.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\studentcontroller1\\get_by_id.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\studentcontroller1\\showsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\studentcontroller1\\showsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\studentcontroller1\\edit_view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\studentcontroller1\\edit_view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\studentcontroller1\\create_new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\studentcontroller1\\create_new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\studentcontroller1\\create_done_view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\studentcontroller1\\create_done_view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\studentcontroller1\\all_data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\studentcontroller1\\all_data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\coursecontroller1\\get_by_id.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\coursecontroller1\\get_by_id.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\coursecontroller1\\create_dep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\coursecontroller1\\create_dep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\ums.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\ums.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\account\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\account\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS  TUF\\AppData\\Local\\Temp\\Rar$DIa16412.1699.rartemp\\UmsContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS  TUF\\AppData\\Local\\Temp\\Rar$DIa16412.3492.rartemp\\UmsContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\migrations\\20250814183457_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\migrations\\20250814183457_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\ums.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\ums.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\instructorcontroller1\\getalldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\instructorcontroller1\\getalldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\instructorcontroller1\\showsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\instructorcontroller1\\showsession.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\migrations\\20250819021054_linkbyusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\migrations\\20250819021054_linkbyusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\migrations\\20250819134820_ttt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\migrations\\20250819134820_ttt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|c:\\users\\asus  tuf\\source\\repos\\ums\\ums\\migrations\\20250819133056_last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E27519-163C-4923-96FC-5E9AECFE6FB9}|Ums\\Ums.csproj|solutionrelative:ums\\migrations\\20250819133056_last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MinTwoCharsName.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Validations\\MinTwoCharsName.cs",
+              "RelativeDocumentMoniker": "Ums\\Validations\\MinTwoCharsName.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Validations\\MinTwoCharsName.cs",
+              "RelativeToolTip": "Ums\\Validations\\MinTwoCharsName.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:10:33.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "showCookie.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\showCookie.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\StudentController1\\showCookie.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\showCookie.cshtml",
+              "RelativeToolTip": "Ums\\Views\\StudentController1\\showCookie.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T17:41:33.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Ums\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T19:07:44.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "done_create_dep.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\CourseController1\\done_create_dep.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\CourseController1\\done_create_dep.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\CourseController1\\done_create_dep.cshtml",
+              "RelativeToolTip": "Ums\\Views\\CourseController1\\done_create_dep.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T00:39:59.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseListPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\CourseController1\\CourseListPartial.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\CourseController1\\CourseListPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\CourseController1\\CourseListPartial.cshtml",
+              "RelativeToolTip": "Ums\\Views\\CourseController1\\CourseListPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T16:35:47.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Program.cs",
+              "RelativeDocumentMoniker": "Ums\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Program.cs",
+              "RelativeToolTip": "Ums\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:55:31.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Ums\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Ums\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:24:14.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Ums\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "Ums\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:23:44.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Repositories\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Ums\\Repositories\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Repositories\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Ums\\Repositories\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:48:27.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Repositories\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "Ums\\Repositories\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Repositories\\ICourseRepository.cs",
+              "RelativeToolTip": "Ums\\Repositories\\ICourseRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:03:53.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Ums\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "Ums\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowC8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:48:54.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Ums\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "Ums\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:05:46.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Ums\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\Student.cs",
+              "RelativeToolTip": "Ums\\Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:59:19.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Ums\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Ums\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T00:04:31.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Ums\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Ums\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T00:03:43.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InstructorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\InstructorViewModel.cs",
+              "RelativeDocumentMoniker": "Ums\\Models\\InstructorViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\InstructorViewModel.cs",
+              "RelativeToolTip": "Ums\\Models\\InstructorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:06:56.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Ums\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\Instructor.cs",
+              "RelativeToolTip": "Ums\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:39:42.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Ums\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Ums\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:06:58.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Ums\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Ums\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:59:42.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Ums\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\Department.cs",
+              "RelativeToolTip": "Ums\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T21:02:15.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\CreateUserViewModel.cs",
+              "RelativeDocumentMoniker": "Ums\\Models\\CreateUserViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\CreateUserViewModel.cs",
+              "RelativeToolTip": "Ums\\Models\\CreateUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:25:01.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CourseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\CourseViewModel.cs",
+              "RelativeDocumentMoniker": "Ums\\Models\\CourseViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\CourseViewModel.cs",
+              "RelativeToolTip": "Ums\\Models\\CourseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T16:57:35.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Ums\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\Course.cs",
+              "RelativeToolTip": "Ums\\Models\\Course.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:08:12.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssignRoleModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\AssignRoleModel.cs",
+              "RelativeDocumentMoniker": "Ums\\Models\\AssignRoleModel.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Models\\AssignRoleModel.cs",
+              "RelativeToolTip": "Ums\\Models\\AssignRoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T01:14:03.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UmsContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Migrations\\UmsContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Ums\\Migrations\\UmsContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Migrations\\UmsContextModelSnapshot.cs",
+              "RelativeToolTip": "Ums\\Migrations\\UmsContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T00:34:30.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Ums\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Ums\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T22:49:17.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UmsContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Data\\UmsContext.cs",
+              "RelativeDocumentMoniker": "Ums\\Data\\UmsContext.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Data\\UmsContext.cs",
+              "RelativeToolTip": "Ums\\Data\\UmsContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwEMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:09:06.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentsRepositoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\StudentsRepositoryController.cs",
+              "RelativeDocumentMoniker": "Ums\\Controllers\\StudentsRepositoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\StudentsRepositoryController.cs",
+              "RelativeToolTip": "Ums\\Controllers\\StudentsRepositoryController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowCUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:39:43.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentController1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\StudentController1.cs",
+              "RelativeDocumentMoniker": "Ums\\Controllers\\StudentController1.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\StudentController1.cs",
+              "RelativeToolTip": "Ums\\Controllers\\StudentController1.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAANgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:23:02.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InstructorController1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\InstructorController1.cs",
+              "RelativeDocumentMoniker": "Ums\\Controllers\\InstructorController1.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\InstructorController1.cs",
+              "RelativeToolTip": "Ums\\Controllers\\InstructorController1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAwFcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:36:41.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ums\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ums\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:07:19.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DepartmentRepositoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\DepartmentRepositoryController.cs",
+              "RelativeDocumentMoniker": "Ums\\Controllers\\DepartmentRepositoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\DepartmentRepositoryController.cs",
+              "RelativeToolTip": "Ums\\Controllers\\DepartmentRepositoryController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:47:21.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CourseRepositoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\CourseRepositoryController.cs",
+              "RelativeDocumentMoniker": "Ums\\Controllers\\CourseRepositoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\CourseRepositoryController.cs",
+              "RelativeToolTip": "Ums\\Controllers\\CourseRepositoryController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:07:29.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CourseController1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\CourseController1.cs",
+              "RelativeDocumentMoniker": "Ums\\Controllers\\CourseController1.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\CourseController1.cs",
+              "RelativeToolTip": "Ums\\Controllers\\CourseController1.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T01:08:54.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Ums\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Ums\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAA9wIUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T01:06:35.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AccountController .cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\AccountController .cs",
+              "RelativeDocumentMoniker": "Ums\\Controllers\\AccountController .cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Controllers\\AccountController .cs",
+              "RelativeToolTip": "Ums\\Controllers\\AccountController .cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:55:36.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\filters\\CustomException.cs",
+              "RelativeDocumentMoniker": "Ums\\filters\\CustomException.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\filters\\CustomException.cs",
+              "RelativeToolTip": "Ums\\filters\\CustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T22:40:04.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StudentListPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\StudentListPartial.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\StudentController1\\StudentListPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\StudentListPartial.cshtml",
+              "RelativeToolTip": "Ums\\Views\\StudentController1\\StudentListPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T16:32:18.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\appsettings.json",
+              "RelativeDocumentMoniker": "Ums\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\appsettings.json",
+              "RelativeToolTip": "Ums\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T19:10:54.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "edit_done_view.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\edit_done_view.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\StudentController1\\edit_done_view.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\edit_done_view.cshtml",
+              "RelativeToolTip": "Ums\\Views\\StudentController1\\edit_done_view.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-17T21:53:44.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "all_data.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\CourseController1\\all_data.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\CourseController1\\all_data.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\CourseController1\\all_data.cshtml",
+              "RelativeToolTip": "Ums\\Views\\CourseController1\\all_data.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T16:36:53.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ums\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T19:07:58.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "InstructorListPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\InstructorController1\\InstructorListPartial.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\InstructorController1\\InstructorListPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\InstructorController1\\InstructorListPartial.cshtml",
+              "RelativeToolTip": "Ums\\Views\\InstructorController1\\InstructorListPartial.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T14:35:22.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ums\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T16:33:21.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetById.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\InstructorController1\\GetById.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\InstructorController1\\GetById.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\InstructorController1\\GetById.cshtml",
+              "RelativeToolTip": "Ums\\Views\\InstructorController1\\GetById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T19:08:07.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Student\\Login.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\Student\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Student\\Login.cshtml",
+              "RelativeToolTip": "Ums\\Views\\Student\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T13:56:45.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Ums\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T19:06:07.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Ums\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T01:26:06.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Ums\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T01:25:42.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Account\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\Account\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Account\\AdminDashboard.cshtml",
+              "RelativeToolTip": "Ums\\Views\\Account\\AdminDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T01:18:56.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\Admin\\Users.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "Ums\\Views\\Admin\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T13:28:39.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CreateAccount.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Admin\\CreateAccount.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\Admin\\CreateAccount.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Admin\\CreateAccount.cshtml",
+              "RelativeToolTip": "Ums\\Views\\Admin\\CreateAccount.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T13:28:23.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Student\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\Student\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Student\\Dashboard.cshtml",
+              "RelativeToolTip": "Ums\\Views\\Student\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T01:58:39.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20250819134820_ttt.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Migrations\\20250819134820_ttt.cs",
+              "RelativeDocumentMoniker": "Ums\\Migrations\\20250819134820_ttt.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Migrations\\20250819134820_ttt.cs",
+              "RelativeToolTip": "Ums\\Migrations\\20250819134820_ttt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:48:20.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Ums\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T13:27:57.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "get_by_id.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\get_by_id.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\StudentController1\\get_by_id.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\get_by_id.cshtml",
+              "RelativeToolTip": "Ums\\Views\\StudentController1\\get_by_id.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T01:13:36.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20250819133056_last.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Migrations\\20250819133056_last.cs",
+              "RelativeDocumentMoniker": "Ums\\Migrations\\20250819133056_last.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Migrations\\20250819133056_last.cs",
+              "RelativeToolTip": "Ums\\Migrations\\20250819133056_last.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:30:56.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "showSession.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\showSession.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\StudentController1\\showSession.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\showSession.cshtml",
+              "RelativeToolTip": "Ums\\Views\\StudentController1\\showSession.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T16:05:22.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "edit_view.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\edit_view.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\StudentController1\\edit_view.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\edit_view.cshtml",
+              "RelativeToolTip": "Ums\\Views\\StudentController1\\edit_view.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-17T21:33:29.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "create_new.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\create_new.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\StudentController1\\create_new.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\create_new.cshtml",
+              "RelativeToolTip": "Ums\\Views\\StudentController1\\create_new.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-17T20:25:56.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "create_done_view.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\create_done_view.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\StudentController1\\create_done_view.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\create_done_view.cshtml",
+              "RelativeToolTip": "Ums\\Views\\StudentController1\\create_done_view.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-17T20:32:35.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "all_data.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\all_data.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\StudentController1\\all_data.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\StudentController1\\all_data.cshtml",
+              "RelativeToolTip": "Ums\\Views\\StudentController1\\all_data.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T19:06:39.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Get_by_id.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\CourseController1\\Get_by_id.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\CourseController1\\Get_by_id.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\CourseController1\\Get_by_id.cshtml",
+              "RelativeToolTip": "Ums\\Views\\CourseController1\\Get_by_id.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T00:35:06.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "create_dep.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\CourseController1\\create_dep.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\CourseController1\\create_dep.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\CourseController1\\create_dep.cshtml",
+              "RelativeToolTip": "Ums\\Views\\CourseController1\\create_dep.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T00:41:10.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ums\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ums\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T01:21:37.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Ums",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Ums.csproj",
+              "RelativeDocumentMoniker": "Ums\\Ums.csproj",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Ums.csproj",
+              "RelativeToolTip": "Ums\\Ums.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T19:09:18.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Ums\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\appsettings.Development.json",
+              "RelativeToolTip": "Ums\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T11:17:44.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20250819021054_LinkByUserName.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Migrations\\20250819021054_LinkByUserName.cs",
+              "RelativeDocumentMoniker": "Ums\\Migrations\\20250819021054_LinkByUserName.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Migrations\\20250819021054_LinkByUserName.cs",
+              "RelativeToolTip": "Ums\\Migrations\\20250819021054_LinkByUserName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T02:10:54.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Account\\Users.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\Account\\Users.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Account\\Users.cshtml",
+              "RelativeToolTip": "Ums\\Views\\Account\\Users.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T01:08:26.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UmsContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\AppData\\Local\\Temp\\Rar$DIa16412.3492.rartemp\\UmsContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa16412.3492.rartemp\\UmsContext.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\AppData\\Local\\Temp\\Rar$DIa16412.3492.rartemp\\UmsContext.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa16412.3492.rartemp\\UmsContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T00:43:47.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UmsContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\AppData\\Local\\Temp\\Rar$DIa16412.1699.rartemp\\UmsContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa16412.1699.rartemp\\UmsContext.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\AppData\\Local\\Temp\\Rar$DIa16412.1699.rartemp\\UmsContext.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa16412.1699.rartemp\\UmsContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T01:00:07.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250814183457_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Migrations\\20250814183457_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Ums\\Migrations\\20250814183457_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Migrations\\20250814183457_InitialCreate.cs",
+              "RelativeToolTip": "Ums\\Migrations\\20250814183457_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:07:05.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Ums.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Ums.csproj",
+              "RelativeDocumentMoniker": "Ums\\Ums.csproj",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Ums.csproj",
+              "RelativeToolTip": "Ums\\Ums.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T19:22:58.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GetAllData.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\InstructorController1\\GetAllData.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\InstructorController1\\GetAllData.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\InstructorController1\\GetAllData.cshtml",
+              "RelativeToolTip": "Ums\\Views\\InstructorController1\\GetAllData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T19:06:34.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "showSession.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\InstructorController1\\showSession.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\InstructorController1\\showSession.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\InstructorController1\\showSession.cshtml",
+              "RelativeToolTip": "Ums\\Views\\InstructorController1\\showSession.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T15:46:15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Ums\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T19:08:00.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Ums\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T19:07:59.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Ums\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS  TUF\\source\\repos\\Ums\\Ums\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Ums\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T19:07:44.081Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

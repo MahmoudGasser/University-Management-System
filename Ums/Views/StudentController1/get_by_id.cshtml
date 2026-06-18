@@ -1,0 +1,28 @@
+﻿@{var student = ViewData["std_id"] as dynamic;}
+
+@if (student != null)
+{
+	<span class="bold_span">student name:</span> <span>@student.StudentName </span>
+	<br>
+	<span class="bold_span">student address:</span> <span>@student.studentAddress </span>
+	<br>
+	<p class="bold_span">student courses:</p>
+	int counter = 1;
+	@foreach (var enroll in student.Enrollments)
+	{
+		<p>	@counter - @enroll.CourseName - credit hours: @enroll.CreditHours - grade: @(string.IsNullOrEmpty(enroll.Grade) ? "in progress" : enroll.Grade)</p>
+		counter++;
+	}
+
+}
+else
+{
+	<h2>Not Found...</h2>	
+}
+<style>
+	.bold_span
+	{
+		font-weight: bold;
+
+	}
+</style>

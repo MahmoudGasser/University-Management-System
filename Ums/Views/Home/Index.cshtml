@@ -1,0 +1,34 @@
+﻿<div>
+    <button id="loadStudents" class="btn btn-primary">Load Students</button>
+    <button id="loadCourses" class="btn btn-success">Load Courses</button>
+    <button id="loadInstructors" class="btn btn-info">Load Instructors</button>
+</div>
+
+<hr />
+
+<div id="data-container">
+    <!-- Partial views will load here -->
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $("#loadStudents").click(function () {
+            $.get('@Url.Action("GetStudentsPartial", "StudentController1")', function (result) {
+                $("#data-container").html(result);
+            });
+        });
+
+        $("#loadCourses").click(function () {
+            $.get('@Url.Action("GetCoursesPartial", "CourseController1")', function (result) {
+                $("#data-container").html(result);
+            });
+        });
+
+        $("#loadInstructors").click(function () {
+            $.get('@Url.Action("GetInstructorsPartial", "InstructorController1")', function (result) {
+                $("#data-container").html(result);
+            });
+        });
+    </script>
+}

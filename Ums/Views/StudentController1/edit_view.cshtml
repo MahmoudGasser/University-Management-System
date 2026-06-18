@@ -1,0 +1,46 @@
+﻿@model Student
+
+@{
+    
+    var allCourses = ViewBag.AllCourses as List<Course>;
+    var studentCourses = Model.Enrollments.Select(e => e.Course_id).ToList();
+}
+
+<h2>Edit Student</h2>
+
+<form asp-action="Edit" asp-route-id="@Model.Student_id" method="post">
+    <div class="form-group">
+        <label asp-for="FullName"></label>
+        <input asp-for="FullName" class="form-control" value="@Model.FullName" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Address"></label>
+        <input asp-for="Address" class="form-control" value="@Model.Address" />
+    </div>
+
+    <h4>Edit Courses</h4>
+    <div class="form-group">
+        @foreach (var course in allCourses)
+        {
+            <div class="form-check">
+                <input class="form-check-input"
+                       type="checkbox"
+                       name="selectedCourses"
+                       value="@course.Course_id"
+                       id="c_@course.Course_id"
+                @(studentCourses.Contains(course.Course_id) ? "checked" : "") />
+
+                <label class="form-check-label" for="c_@course.Course_id">
+                    @course.name
+                </label>
+            </div>
+        }
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

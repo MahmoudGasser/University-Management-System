@@ -1,0 +1,37 @@
+﻿@model List<Ums.Models.InstructorViewModel>
+
+<h2>Instructors</h2>
+
+<table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Instructor</th>
+            <th>Department</th>
+            <th>Courses</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var instructor in Model)
+        {
+            <tr>
+                <td>@instructor.InstructorName</td>
+                <td>@instructor.DepartmentName</td>
+                <td>
+                    @if (instructor.Courses != null)
+                    {
+                        <ul>
+                        @foreach (var course in instructor.Courses)
+                        {
+                                <li>@course.CourseTitle - @course.CreditHours hrs</li>
+                        }
+                        </ul>
+                    }
+                    else
+                    {
+                        <span>No courses</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

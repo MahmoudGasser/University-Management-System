@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Ums.Models.InstructorViewModel>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Instructor Name</th>
+            <th>Department</th>
+            <th>Courses</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var instructor in Model)
+    {
+        <tr>
+            <td>@instructor.InstructorName</td>
+            <td>@instructor.DepartmentName</td>
+            <td>
+                @if (instructor.Courses != null && instructor.Courses.Any())
+                {
+                    <ul>
+                    @foreach (var course in instructor.Courses)
+                    {
+                        <li>@course.CourseTitle (Credits: @course.CreditHours)</li>
+                    }
+                    </ul>
+                }
+                else
+                {
+                    <span>No courses assigned</span>
+                }
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
